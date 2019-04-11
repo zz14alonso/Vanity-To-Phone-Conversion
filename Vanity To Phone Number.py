@@ -2,7 +2,7 @@
 """
 Created on Thu Apr 11 18:39:26 2019
 
-@author: School
+@author: Luke Alonso
 """
 letters = ['a','b','c','d','e','f','g','h','i','j','k','l','m','n','o','p','q','r','s','t','u','v','w','x','y','z'] #Makes a list of letters
 numbers = ['2','2','2','3','3','3','4','4','4','5','5','5','6','6','6','7','7','7','7','8','8','8','9','9','9','9'] #Makes a list of numbers
